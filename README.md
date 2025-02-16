@@ -1,0 +1,1 @@
+# Haskell-Imagini-func-ionale
